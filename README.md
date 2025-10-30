@@ -3,7 +3,7 @@ This shows python data analysis skills using Pandas and Matplotlib libraries.
 
 # PROJECT OVERVIEW
 
-The Sales data analysis project is designed to explore and analyzie key insights from a dataset containing different sales informations about payment mwthod, total number of sales and order etc.By applying data analysis and visualization technique using pandas and matplotlib.The project aims to uncover key patterns within the dataset.
+The Sales data analysis project is designed to explore and analyzie key insights from a dataset containing different sales informations about payment method, total number of sales and order etc.By applying data analysis and visualization technique using pandas and matplotlib.The project aims to uncover key patterns within the dataset.
 
 ## Objective
 -Clean and preprocess the dataset to ensure data integrity.
@@ -42,3 +42,6 @@ The Sales data analysis project is designed to explore and analyzie key insights
  
 10. What was the total number of orders or sales made? 
 
+### Tools
+-Excel[website](http://office.com)
+-Jupyter Notebook

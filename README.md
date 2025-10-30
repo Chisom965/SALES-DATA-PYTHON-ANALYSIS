@@ -72,4 +72,25 @@ dataset["Date"] = pd.to_datetime(dataset["Date"], errors="coerce")
 dataset["Price"] = pd.to_numeric(dataset["Price"], errors="coerce") 
 dataset["Quantity"] = pd.to_numeric(dataset["Quantity"], errors="coerce")
 
-![image alt](
+![image alt](https://github.com/Chisom965/SALES-DATA-PYTHON-ANALYSIS/blob/9910ea9b2212de88c5569c1779843ac8d4edb148/py%203.png)
+
+### Insights
+-Credit Card payments dominate sales transactions.
+
+- Beverages are most sold by quantity, while Burgers generate the most revenue
+  
+ - Lisbon city and Manager Joao Silva outperform others in revenue contribution.
+
+ - Revenue steadily increases, with a strong peak in November & December (holiday effect).
+   
+### RECOMMENDATIONS 
+
+1. Expand credit card payment support to improve customer convenience.
+   
+2. Promote Burgers more aggressively since it yields higher revenue.
+    
+3. Replicate strategies used in Lisbon to boost other cities.
+     
+4. Reward and support high-performing managers like Joao Silva.
+
+   

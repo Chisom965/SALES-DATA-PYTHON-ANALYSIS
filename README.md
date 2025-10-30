@@ -72,7 +72,7 @@ dataset["Date"] = pd.to_datetime(dataset["Date"], errors="coerce")
 dataset["Price"] = pd.to_numeric(dataset["Price"], errors="coerce") 
 dataset["Quantity"] = pd.to_numeric(dataset["Quantity"], errors="coerce")
 
-![image alt](https://github.com/Chisom965/SALES-DATA-PYTHON-ANALYSIS/blob/9910ea9b2212de88c5569c1779843ac8d4edb148/py%203.png)
+[![image alt]](https://github.com/Chisom965/SALES-DATA-PYTHON-ANALYSIS/blob/9910ea9b2212de88c5569c1779843ac8d4edb148/py%203.png)
 
 ### Insights
 -Credit Card payments dominate sales transactions.
@@ -92,5 +92,9 @@ dataset["Quantity"] = pd.to_numeric(dataset["Quantity"], errors="coerce")
 3. Replicate strategies used in Lisbon to boost other cities.
      
 4. Reward and support high-performing managers like Joao Silva.
+
+## Results
+
+[![image alt](https://github.com/Chisom965/SALES-DATA-PYTHON-ANALYSIS/blob/c50faafa1f118d26a439377a1c16a5076a982199/CHISOM%20FAITH%20CHIJIOKE%20SALES%20DATA%20PYTHON%20ANALYSIS%20PROJECT%20REPORT.pdf)
 
    

@@ -46,3 +46,22 @@ The Sales data analysis project is designed to explore and analyzie key insights
 -Excel[website](http://office.com)
 
 -Jupyter Notebook
+
+# Cleaning and Preprocessing the Dataset
+
+To ensure data integrity:
+
+1.Importing Libraries & Load Dataset
+
+2.Checking for missing values
+
+3.Removing duplicates (if any)
+
+4.Removing unwanted characters from numeric columns and convert to numbers
+
+### Data Analysis
+
+Code used:
+import pandas as pd 
+dataset = pd.read_excel("python_SalesData.xlsx")
+![image alt]

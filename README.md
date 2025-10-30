@@ -62,6 +62,8 @@ To ensure data integrity:
 ### Data Analysis
 
 Code used:
+
 import pandas as pd 
 dataset = pd.read_excel("python_SalesData.xlsx")
+
 ![image alt]

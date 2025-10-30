@@ -44,4 +44,5 @@ The Sales data analysis project is designed to explore and analyzie key insights
 
 ### Tools
 -Excel[website](http://office.com)
+
 -Jupyter Notebook

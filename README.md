@@ -66,4 +66,10 @@ Code used:
 import pandas as pd 
 dataset = pd.read_excel("python_SalesData.xlsx")
 
-![image alt]
+![image alt](https://github.com/Chisom965/SALES-DATA-PYTHON-ANALYSIS/blob/aeea86a3662a57715b4c6727b5cd43583eea68fb/py%201.png)
+
+dataset["Date"] = pd.to_datetime(dataset["Date"], errors="coerce") 
+dataset["Price"] = pd.to_numeric(dataset["Price"], errors="coerce") 
+dataset["Quantity"] = pd.to_numeric(dataset["Quantity"], errors="coerce")
+
+![image alt](
